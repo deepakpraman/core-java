@@ -1,7 +1,7 @@
 package com.bigdreams.corejava.datastructures.arrays;
 
 // Find Two Numbers that Add up to "n"  (USE Quick Sort)
-public class twoSum {
+public class LC_1 {
     public static void main(String args[]) {
         int n = 9;
         int[] arr1 = {2, 4, 5, 7, 8};

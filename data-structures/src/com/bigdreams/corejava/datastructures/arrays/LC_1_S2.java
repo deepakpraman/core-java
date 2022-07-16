@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 // Find Two Numbers that Add up to "n"
-public class twoSumHashMap {
+public class LC_1_S2 {
     public static void main(String args[]) {
         int n = 9;
         int[] arr1 = {2, 4, 5, 7, 8};

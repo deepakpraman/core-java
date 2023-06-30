@@ -1,4 +1,4 @@
-package com.bigdreams.corejava.datastructures.arrays;
+package com.bigdreams.corejava.datastructures.arrays.twopointers.twosum;
 
 // Find Two Numbers that Add up to "n"  (USE Quick Sort)
 public class LC_1 {
